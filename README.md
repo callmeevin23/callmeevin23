@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/15%20a%C3%B1os-000000?style=flat-square" alt="Edad"/>
   <img src="https://img.shields.io/badge/Desarrollador%20en%20formaci%C3%B3n-ffffff?style=flat-square&labelColor=000000&color=ffffff&labelColor=ffffff" alt="Rol"/>
 </p>
+<p align="center">
+  <a href="https://x.com/Isnt_lol23"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="20"/></a>
+  &nbsp;
+  <a href="https://www.youtube.com/@Call.meevin/posts"><img src="https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="20"/></a>
+</p>
 
 <br/>
 
@@ -38,16 +43,6 @@
   <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-</p>
-
-<br/>
-
-<h2 align="center">𝐌𝐢𝐬 𝐫𝐞𝐝𝐞𝐬</h2>
-
-<p align="center">
-  <a href="https://x.com/Isnt_lol23"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="20"/></a>
-  &nbsp;
-  <a href="https://www.youtube.com/@Call.meevin/posts"><img src="https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="20"/></a>
 </p>
 
 <br/>
