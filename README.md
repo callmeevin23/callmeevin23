@@ -44,6 +44,11 @@
   <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
 </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="" width="100%" alt="Gif"/>
+    </td>
+
 
 <br/>
 
