@@ -34,22 +34,26 @@
 
 <h2 align="center">𝐄𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐝𝐚𝐝𝐞𝐬</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Lua-000000?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
-  <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY4czlvYWg5cXUyNXZsYnVvN21sMzVsOGlpbDhidm5vYmEzeHBjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VkHZoaQdhir09oRR8G/giphy.gif" width="100%" alt="Gif"/>
     </td>
-    <td width="40%" align="left" valign="middle">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY4czlvYWg5cXUyNXZsYnVvN21sMzVsOGlpbDhidm5vYmEzeHBjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VkHZoaQdhir09oRR8G/giphy.gif" width="25%" alt="Gif"/>
+    <td width="65%" align="left" valign="middle">
+      <ol>
+        <li>𝐑𝐞𝐚𝐜𝐭</li>
+        <li>𝐋𝐮𝐚</li>
+        <li>𝐇𝐓𝐌𝐋</li>
+        <li>𝐂𝐒𝐒</li>
+        <li>𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭</li>
+        <li>𝐂++</li>
+        <li>𝐂</li>
+        <li>𝐂#</li>
+      </ol>
     </td>
-
+  </tr>
+</table>
 
 <br/>
 
-<p align="center"><i>Gachas por leer.</i></p>
+<p align="center"><b>𝐆𝐚𝐜𝐡𝐚𝐬 𝐩𝐨𝐫 𝐥𝐞𝐞𝐫.</b></p>
