@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/15%20a%C3%B1os-000000?style=flat-square" alt="Edad"/>
-  <img src="https://img.shields.io/badge/Desarrollador%20en%20formaci%C3%B3n-ffffff?style=flat-square&labelColor=000000&color=ffffff&labelColor=ffffff" alt="Rol"/>
+  <img src="https://img.shields.io/badge/Estudiante%20en%20formaci%C3%B3n-ffffff?style=flat-square&labelColor=000000&color=ffffff&labelColor=ffffff" alt="Rol"/>
 </p>
 <p align="center">
   <a href="https://x.com/Isnt_lol23"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="20"/></a>
@@ -46,7 +46,7 @@
 </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="" width="100%" alt="Gif"/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY4czlvYWg5cXUyNXZsYnVvN21sMzVsOGlpbDhidm5vYmEzeHBjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VkHZoaQdhir09oRR8G/giphy.gif" width="100%" alt="Gif"/>
     </td>
 
 
