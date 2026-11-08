@@ -46,7 +46,7 @@
 </p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY4czlvYWg5cXUyNXZsYnVvN21sMzVsOGlpbDhidm5vYmEzeHBjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VkHZoaQdhir09oRR8G/giphy.gif" width="100%" alt="Gif"/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY4czlvYWg5cXUyNXZsYnVvN21sMzVsOGlpbDhidm5vYmEzeHBjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VkHZoaQdhir09oRR8G/giphy.gif" width="25%" alt="Gif"/>
     </td>
 
 
