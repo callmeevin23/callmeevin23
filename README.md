@@ -1,12 +1,55 @@
-<h1 align="center">¡Hola! Soy Evin 👋</h1> <p align="center"> <img src="https://img.shields.io/badge/Edad-15%20años-blueviolet?style=for-the-badge" alt="Edad"/> <img src="https://img.shields.io/badge/Desarrollador-en%20formación-black?style=for-the-badge" alt="Rol"/> </p> <!-- Si quieres un banner, sube una imagen a tu repo y descomenta esto: <p align="center"> <img src="./banner.png" width="600" alt="Banner"/> </p> -->
-💬 Sobre mí
+<p align="center">
+  <img src="https://wsrv.nl/?url=i.pinimg.com/736x/09/c2/b7/09c2b7921f2c5c300941399be3b75cfd.jpg&filt=greyscale" width="100%" alt="Banner"/>
+</p>
 
-Holaaaa, ¿cómo están? Bueno, me presento: soy un chico que le encanta estar metido en su cabeza imaginando grandes proyectos que nunca termina 😅.
+<h1 align="center">𝐄 𝐕 𝐈 𝐍</h1>
 
-Quiero demostrar en un futuro mis distintos proyectos, que sean beneficiosos para alguien más o simplemente mostrar qué es lo que puedo hacer xd.
+<p align="center">
+  <img src="https://img.shields.io/badge/15%20a%C3%B1os-000000?style=flat-square" alt="Edad"/>
+  <img src="https://img.shields.io/badge/Desarrollador%20en%20formaci%C3%B3n-ffffff?style=flat-square&labelColor=000000&color=ffffff&labelColor=ffffff" alt="Rol"/>
+</p>
 
-🛠️ Me especializo en
-<p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/> </p>
-🌐 Mis redes
-<p align="center"> <a href="https://x.com/Isnt_lol23"> <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="22"/> </a> &nbsp; <a href="https://www.youtube.com/@Call.meevin/posts"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="22"/> </a> </p>
-<p align="center"> <i>Gracias por pasarte por mi perfil ✨</i> </p>
+<br/>
+
+<h2 align="center">𝐀𝐜𝐞𝐫𝐜𝐚 𝐝𝐞 𝐦𝐢</h2>
+
+<table align="center" border="0">
+  <tr>
+    <td width="60%" valign="middle">
+      <p><i>Holaaaa, ¿cómo están? Bueno, me presento: soy un chico que le encanta estar metido en su cabeza imaginando grandes proyectos que nunca termina.</i></p>
+      <p><i>Quiero demostrar en un futuro mis distintos proyectos, que sean beneficiosos para alguien más, o simplemente mostrar qué es lo que puedo hacer, xd.</i></p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://wsrv.nl/?url=i.pinimg.com/736x/09/c2/b7/09c2b7921f2c5c300941399be3b75cfd.jpg&filt=greyscale" width="100%" alt="Imagen"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">𝐄𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐝𝐚𝐝𝐞𝐬</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Lua-000000?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+</p>
+
+<br/>
+
+<h2 align="center">𝐌𝐢𝐬 𝐫𝐞𝐝𝐞𝐬</h2>
+
+<p align="center">
+  <a href="https://x.com/Isnt_lol23"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="20"/></a>
+  &nbsp;
+  <a href="https://www.youtube.com/@Call.meevin/posts"><img src="https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="20"/></a>
+</p>
+
+<br/>
+
+<p align="center"><i>Gracias por pasarte por mi perfil.</i></p>
