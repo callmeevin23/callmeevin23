@@ -5,16 +5,17 @@
 <h1 align="center">𝐄 𝐕 𝐈 𝐍</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/15%20a%C3%B1os-000000?style=flat-square" alt="Edad"/>
-  <img src="https://img.shields.io/badge/Estudiante%20en%20formaci%C3%B3n-ffffff?style=flat-square&labelColor=000000&color=ffffff&labelColor=ffffff" alt="Rol"/>
-</p>
-<p align="center">
-  <a href="https://x.com/Isnt_lol23"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="20"/></a>
-  &nbsp;
-  <a href="https://www.youtube.com/@Call.meevin/posts"><img src="https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="20"/></a>
+  <img src="https://img.shields.io/badge/15%20a%C3%B1os-000000?style=for-the-badge" alt="Edad"/>
+  <img src="https://img.shields.io/badge/Estudiante%20en%20formaci%C3%B3n-ffffff?style=for-the-badge&labelColor=ffffff&color=ffffff" alt="Rol"/>
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://x.com/Isnt_lol23"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="26"/></a>
+  &nbsp;
+  <a href="https://www.youtube.com/@Call.meevin/posts"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="26"/></a>
+</p>
+
+<p align="center">◆ &nbsp; ◆ &nbsp; ◆</p>
 
 <h2 align="center">𝐀𝐜𝐞𝐫𝐜𝐚 𝐝𝐞 𝐦𝐢</h2>
 
@@ -30,7 +31,7 @@
   </tr>
 </table>
 
-<br/>
+<p align="center">◆ &nbsp; ◆ &nbsp; ◆</p>
 
 <h2 align="center">𝐄𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐝𝐚𝐝𝐞𝐬</h2>
 
@@ -40,20 +41,18 @@
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY4czlvYWg5cXUyNXZsYnVvN21sMzVsOGlpbDhidm5vYmEzeHBjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VkHZoaQdhir09oRR8G/giphy.gif" width="100%" alt="Gif"/>
     </td>
     <td width="65%" align="left" valign="middle">
-      <ol>
-        <li>𝐑𝐞𝐚𝐜𝐭</li>
-        <li>𝐋𝐮𝐚</li>
-        <li>𝐇𝐓𝐌𝐋</li>
-        <li>𝐂𝐒𝐒</li>
-        <li>𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭</li>
-        <li>𝐂++</li>
-        <li>𝐂</li>
-        <li>𝐂#</li>
-      </ol>
+      <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React"/><br/>
+      <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/><br/>
+      <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/><br/>
+      <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/><br/>
+      <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/><br/>
+      <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C"/><br/>
+      <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
     </td>
   </tr>
 </table>
 
-<br/>
+<p align="center">◆ &nbsp; ◆ &nbsp; ◆</p>
 
 <p align="center"><b>𝐆𝐚𝐜𝐡𝐚𝐬 𝐩𝐨𝐫 𝐥𝐞𝐞𝐫.</b></p>
