@@ -16,7 +16,7 @@
 <table align="center" border="0">
   <tr>
     <td width="60%" valign="middle">
-      <p><i>Holaaaa, ¿cómo están? Bueno, me presento: soy un chico que le encanta estar metido en su cabeza imaginando grandes proyectos que nunca termina.</i></p>
+      <p><i>Holaaaa, ¿cómo están? Bueno, me presento: soy un chico que le encanta estar metido en su cuarto mientras que en su cabeza esta imaginando grandes proyectos que nunca termina de crear.</i></p>
       <p><i>Quiero demostrar en un futuro mis distintos proyectos, que sean beneficiosos para alguien más, o simplemente mostrar qué es lo que puedo hacer, xd.</i></p>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -52,4 +52,4 @@
 
 <br/>
 
-<p align="center"><i>Gracias por pasarte por mi perfil.</i></p>
+<p align="center"><i>Gachas por leer.</i></p>
