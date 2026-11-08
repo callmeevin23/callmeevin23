@@ -20,7 +20,7 @@
       <p><i>Quiero demostrar en un futuro mis distintos proyectos, que sean beneficiosos para alguien más, o simplemente mostrar qué es lo que puedo hacer, xd.</i></p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://wsrv.nl/?url=i.pinimg.com/736x/09/c2/b7/09c2b7921f2c5c300941399be3b75cfd.jpg&filt=greyscale" width="100%" alt="Imagen"/>
+      <img src="https://i.pinimg.com/736x/69/15/fd/6915fdd2cf0e2c732afa3b30469735b0.jpg" width="100%" alt="Imagen"/>
     </td>
   </tr>
 </table>
